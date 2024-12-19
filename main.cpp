@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// WSLubuntu给sort添加注释
 void sort(int arr[], int size)
 {
     int tmp = 0;
