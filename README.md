@@ -1,2 +1,2 @@
-# HelloWorldWindow参与开发项目
+# HelloWorldWSLubuntu参与项目开发, Windows参与项目开发
 a simple project
